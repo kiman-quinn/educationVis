@@ -1,0 +1,187 @@
+Area,Year,Age,Years
+Nepal,1950,15--19,0.53
+Nepal,1955,15--19,0.67
+Nepal,1960,15--19,0.91
+Nepal,1965,15--19,1.2
+Nepal,1970,15--19,1.57
+Nepal,1975,15--19,1.94
+Nepal,1980,15--19,2.41
+Nepal,1985,15--19,2.32
+Nepal,1990,15--19,2.95
+Nepal,1995,15--19,4.44
+Nepal,2000,15--19,5.53
+Nepal,2005,15--19,6.31
+Nepal,2010,15--19,7.01
+Nepal,2015,15--19,7.4
+Nepal,2020,15--19,7.79
+Nepal,2025,15--19,8.16
+Nepal,2030,15--19,8.46
+Nepal,2035,15--19,8.73
+Nepal,2040,15--19,8.94
+Nepal,2045,15--19,9.13
+Nepal,2050,15--19,9.27
+Nepal,2055,15--19,9.37
+Nepal,2060,15--19,9.46
+Nepal,2065,15--19,9.53
+Nepal,2070,15--19,9.59
+Nepal,2075,15--19,9.62
+Nepal,2080,15--19,9.66
+Nepal,2085,15--19,9.68
+Nepal,2090,15--19,9.69
+Nepal,2095,15--19,9.7
+Nepal,2100,15--19,9.71
+United States of America,1950,15--19,9.13
+United States of America,1955,15--19,9.29
+United States of America,1960,15--19,9.44
+United States of America,1965,15--19,9.56
+United States of America,1970,15--19,9.63
+United States of America,1975,15--19,9.71
+United States of America,1980,15--19,9.77
+United States of America,1985,15--19,9.82
+United States of America,1990,15--19,9.86
+United States of America,1995,15--19,9.88
+United States of America,2000,15--19,9.9
+United States of America,2005,15--19,9.91
+United States of America,2010,15--19,9.95
+United States of America,2015,15--19,10.04
+United States of America,2020,15--19,10.11
+United States of America,2025,15--19,10.19
+United States of America,2030,15--19,10.21
+United States of America,2035,15--19,10.23
+United States of America,2040,15--19,10.25
+United States of America,2045,15--19,10.26
+United States of America,2050,15--19,10.27
+United States of America,2055,15--19,10.28
+United States of America,2060,15--19,10.29
+United States of America,2065,15--19,10.3
+United States of America,2070,15--19,10.3
+United States of America,2075,15--19,10.3
+United States of America,2080,15--19,10.31
+United States of America,2085,15--19,10.31
+United States of America,2090,15--19,10.31
+United States of America,2095,15--19,10.31
+United States of America,2100,15--19,10.31
+World,1950,15--19,4.2
+World,1955,15--19,4.65
+World,1960,15--19,5.01
+World,1965,15--19,5.51
+World,1970,15--19,5.84
+World,1975,15--19,6.16
+World,1980,15--19,6.52
+World,1985,15--19,6.77
+World,1990,15--19,7.02
+World,1995,15--19,7.21
+World,2000,15--19,7.51
+World,2005,15--19,7.88
+World,2010,15--19,8.24
+World,2015,15--19,8.36
+World,2020,15--19,8.54
+World,2025,15--19,8.77
+World,2030,15--19,9
+World,2035,15--19,9.16
+World,2040,15--19,9.31
+World,2045,15--19,9.45
+World,2050,15--19,9.58
+World,2055,15--19,9.71
+World,2060,15--19,9.81
+World,2065,15--19,9.9
+World,2070,15--19,9.98
+World,2075,15--19,10.05
+World,2080,15--19,10.1
+World,2085,15--19,10.15
+World,2090,15--19,10.19
+World,2095,15--19,10.22
+World,2100,15--19,10.24
+Nepal,1950,20--24,0.49
+Nepal,1955,20--24,0.61
+Nepal,1960,20--24,0.78
+Nepal,1965,20--24,1.05
+Nepal,1970,20--24,1.39
+Nepal,1975,20--24,1.83
+Nepal,1980,20--24,2.24
+Nepal,1985,20--24,2.63
+Nepal,1990,20--24,2.91
+Nepal,1995,20--24,3.83
+Nepal,2000,20--24,4.96
+Nepal,2005,20--24,6.35
+Nepal,2010,20--24,7.44
+Nepal,2015,20--24,8.38
+Nepal,2020,20--24,8.97
+Nepal,2025,20--24,9.54
+Nepal,2030,20--24,10.05
+Nepal,2035,20--24,10.51
+Nepal,2040,20--24,10.94
+Nepal,2045,20--24,11.33
+Nepal,2050,20--24,11.67
+Nepal,2055,20--24,11.98
+Nepal,2060,20--24,12.22
+Nepal,2065,20--24,12.45
+Nepal,2070,20--24,12.65
+Nepal,2075,20--24,12.83
+Nepal,2080,20--24,13
+Nepal,2085,20--24,13.17
+Nepal,2090,20--24,13.3
+Nepal,2095,20--24,13.43
+Nepal,2100,20--24,13.54
+United States of America,1950,20--24,10.33
+United States of America,1955,20--24,10.5
+United States of America,1960,20--24,10.77
+United States of America,1965,20--24,11.08
+United States of America,1970,20--24,11.33
+United States of America,1975,20--24,11.5
+United States of America,1980,20--24,11.64
+United States of America,1985,20--24,11.77
+United States of America,1990,20--24,11.86
+United States of America,1995,20--24,11.91
+United States of America,2000,20--24,11.94
+United States of America,2005,20--24,12.01
+United States of America,2010,20--24,12.06
+United States of America,2015,20--24,12.45
+United States of America,2020,20--24,12.65
+United States of America,2025,20--24,12.89
+United States of America,2030,20--24,12.97
+United States of America,2035,20--24,13.05
+United States of America,2040,20--24,13.13
+United States of America,2045,20--24,13.2
+United States of America,2050,20--24,13.27
+United States of America,2055,20--24,13.34
+United States of America,2060,20--24,13.39
+United States of America,2065,20--24,13.44
+United States of America,2070,20--24,13.5
+United States of America,2075,20--24,13.53
+United States of America,2080,20--24,13.57
+United States of America,2085,20--24,13.61
+United States of America,2090,20--24,13.64
+United States of America,2095,20--24,13.67
+United States of America,2100,20--24,13.69
+World,1950,20--24,4.28
+World,1955,20--24,4.61
+World,1960,20--24,5.16
+World,1965,20--24,5.6
+World,1970,20--24,6.18
+World,1975,20--24,6.56
+World,1980,20--24,6.99
+World,1985,20--24,7.38
+World,1990,20--24,7.62
+World,1995,20--24,7.91
+World,2000,20--24,8.18
+World,2005,20--24,8.57
+World,2010,20--24,9.08
+World,2015,20--24,9.58
+World,2020,20--24,9.96
+World,2025,20--24,10.38
+World,2030,20--24,10.7
+World,2035,20--24,11.04
+World,2040,20--24,11.31
+World,2045,20--24,11.57
+World,2050,20--24,11.81
+World,2055,20--24,12.04
+World,2060,20--24,12.26
+World,2065,20--24,12.47
+World,2070,20--24,12.65
+World,2075,20--24,12.81
+World,2080,20--24,12.96
+World,2085,20--24,13.09
+World,2090,20--24,13.21
+World,2095,20--24,13.33
+World,2100,20--24,13.42
